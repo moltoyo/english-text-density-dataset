@@ -1,0 +1,1257 @@
+{
+ "dataset": "MTD-v1-2026",
+ "scope": "Source links only. This catalog makes no licence, authorship or rights claims; source works retain their own rights.",
+ "row_count": 250,
+ "sources": [
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC10201934",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC10201934"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC12347466",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC12347466"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC12724539",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC12724539"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC12967923",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC12967923"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13120700",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13120700"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13211306",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13211306"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13314403",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13314403"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13337654",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13337654"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13345652",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13345652"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13387544",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13387544"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13390874",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13390874"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13395330",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13395330"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13395696",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13395696"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13437347",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13437347"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13477980",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13477980"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13485125",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13485125"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13489431",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13489431"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13513989",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13513989"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13521387",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13521387"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13529556",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13529556"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13537609",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13537609"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13541250",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13541250"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13552941",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13552941"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13555214",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13555214"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13555730",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13555730"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13558189",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13558189"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13561354",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13561354"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13561358",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13561358"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13561363",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13561363"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13562241",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13562241"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13563143",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13563143"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13567756",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13567756"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13568513",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13568513"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13572283",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13572283"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13572679",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13572679"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13577365",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13577365"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13577582",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13577582"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13582311",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13582311"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13582369",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13582369"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13585268",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13585268"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13585760",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13585760"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13585931",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13585931"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13592689",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC13592689"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC7241613",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC7241613"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC7250395",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC7250395"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC7614090",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC7614090"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC7705130",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC7705130"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC8653866",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC8653866"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC9533658",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC9533658"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC9728634",
+   "source": "europe_pmc",
+   "url": "https://europepmc.org/article/PMC/PMC9728634"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:102",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/102"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:103",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/103"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:111",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/111"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:120",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/120"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:121",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/121"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:125",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/125"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:131",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/131"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:133",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/133"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:135",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/135"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:143",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/143"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:145",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/145"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:15",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/15"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:154",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/154"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:155",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/155"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:160",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/160"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:161",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/161"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:165",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/165"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:169",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/169"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:170",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/170"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:171",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/171"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:175",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/175"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:179",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/179"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:201",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/201"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:203",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/203"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:210",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/210"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:215",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/215"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:219",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/219"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:220",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/220"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:225",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/225"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:234",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/234"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:238",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/238"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:241",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/241"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:268",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/268"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:27",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/27"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:324",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/324"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:332",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/332"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:334",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/334"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:394",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/394"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:422",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/422"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:427",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/427"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:43",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/43"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:433",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/433"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:46",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/46"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:468",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/468"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:471",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/471"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:74",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/74"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:77",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/77"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:83",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/83"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:84",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/84"
+  },
+  {
+   "sample_id": "MTD-v1-2026/gutenberg:97",
+   "source": "project_gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/97"
+  },
+  {
+   "sample_id": "MTD-v1-2026/ec:/topics/energy/eu-action-address-energy-crisis_en",
+   "source": "european_commission",
+   "url": "https://commission.europa.eu/topics/energy/eu-action-address-energy-crisis_en"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/applying-to-the-ukraine-permission-extension-scheme",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/applying-to-the-ukraine-permission-extension-scheme"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/assured-tenancy-forms",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/assured-tenancy-forms"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/being-a-company-director",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/being-a-company-director"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/buildings-and-construction-vat-notice-708",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/buildings-and-construction-vat-notice-708"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/community-infrastructure-levy",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/community-infrastructure-levy"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/documents-for-british-people-abroad",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/documents-for-british-people-abroad"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/enforcement-and-post-permission-matters",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/enforcement-and-post-permission-matters"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/flood-risk-and-coastal-change",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/flood-risk-and-coastal-change"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/leaseholder-protections-deed-of-certificate-frequently-asked-questions",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/leaseholder-protections-deed-of-certificate-frequently-asked-questions"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/new-style-employment-and-support-allowance",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/new-style-employment-and-support-allowance"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/reliefs-from-vat-for-disabled-and-older-people-notice-7017",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/reliefs-from-vat-for-disabled-and-older-people-notice-7017"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/repossessing-your-privately-rented-property-after-1-may-2026",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/repossessing-your-privately-rented-property-after-1-may-2026"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/student-finance-england-how-to-guide",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/student-finance-england-how-to-guide"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/tree-preservation-orders-and-trees-in-conservation-areas",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/tree-preservation-orders-and-trees-in-conservation-areas"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/universal-credit-if-you-have-children",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/universal-credit-if-you-have-children"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/vat-guide-notice-700",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/vat-guide-notice-700"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/what-maintained-schools-must-publish-online",
+   "source": "govuk",
+   "url": "https://www.gov.uk/guidance/what-maintained-schools-must-publish-online"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:10804088",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Natural_magic"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:1107345",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Repression_of_science_in_the_Soviet_Union"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:14285",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_science_and_technology"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:15732918",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_eclipse_of_Darwinism"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:166380",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Natural_history"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:1692795",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Physics_(Aristotle)"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:17902329",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/One-sex_and_two-sex_theories"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:1949268",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aether_(classical_element)"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:20487804",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Economic_impact_analysis"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:22734942",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_science_and_technology_in_Africa"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:26476831",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_randomness"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:31468613",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Book_of_Nature"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:31642145",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/European_and_American_voyages_of_scientific_exploration"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:3373310",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Traditional_knowledge"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:33809974",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Discovery_of_human_antiquity"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:36920393",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_experiments"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:382251",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Natural_philosophy"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:400047",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acclimatization"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:4175709",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Science_in_the_Renaissance"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:56111973",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stalin_and_the_Scientists"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:573",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alchemy"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:5788461",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_science_policy"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:57975652",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_beliefs_about_the_human_body"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:59045643",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Climate_change_in_Ghana"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:59616",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fermentation_theory"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:60880859",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eddington_experiment"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:64503842",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Second_International_Congress_of_the_History_of_Science"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:66569125",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Royal_Commission_on_Animal_Magnetism"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:76589675",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Materialism_controversy"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:7802702",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bridgewater_Treatises"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:8586",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dyson_sphere"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikipedia:8759532",
+   "source": "wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Germany"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:854494",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/07/29/running-from-russia-running-from-hate-a-trans-girls-flight-to-survival/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:854728",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:855725",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:855821",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/07/21/sold-as-brides-lost-at-sea-the-trafficking-of-stateless-rohingya-girls/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:855902",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856007",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/07/24/tickets-to-nowhere-haitian-refugees-fall-prey-to-travel-scams/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856032",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/07/26/how-transnational-movements-can-shield-african-civil-spaces/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856162",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/07/31/a-myanmar-artist-navigating-statelessness-and-activism-in-france/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856236",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/13/silence-has-become-both-more-dangerous-and-more-complicit-an-interview-with-lebanese-british-artist-amale-khlat/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856462",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856475",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/01/mightily-like-insurrection-revisiting-trinidad-tobagos-first-emancipation-day/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856525",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856533",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/10/in-japan-ryukyuan-indigenous-claim-hindered-by-u-s-military-bases-in-okinawa/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856637",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/11/the-bleak-picture-of-how-indigenous-youth-are-treated-in-australias-justice-system/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856656",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/17/from-dms-to-data-how-an-anonymous-platform-is-turning-students-stories-into-fuel-for-change-in-north-macedonia/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:856856",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857006",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/06/what-does-folklore-have-to-say-it-helps-uncover-untold-facets-of-indigenous-stories-overlooked-for-generations/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857018",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857026",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857125",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/26/in-cameroon-before-the-scroll-there-was-the-dance-floor/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857164",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857310",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/28/chinas-new-cotton-law-deepens-control-over-uyghur-farmers-land-and-labor/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857338",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857537",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/05/the-people-who-live-in-cities-must-have-a-say-in-how-they-are-shaped-notes-from-the-common-city-conference/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857604",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857683",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/06/north-macedonias-independence-should-not-be-commemorated-by-glorifying-war-criminals/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857774",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/13/as-casablancas-music-scene-grows-its-musicians-struggle/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857940",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/08/what-remains-after-nepals-gen-z-protests-survivors-reflect-one-year-later/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857960",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/13/what-the-commemoration-of-the-235th-anniversary-of-bois-caiman-means-for-haitis-memory-and-future/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:857962",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/11/pay-by-the-day-living-in-pereira-the-forgotten-survivors-of-colombias-earthquake/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:858170",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/17/street-art-in-russia-is-dead-and-the-country-is-full-of-monumental-war-art/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:858212",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/19/a-place-of-silence-contemplation-and-beauty-can-also-become-a-form-of-resistance-in-conversation-with-catalan-artist-jaume-amigo/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:858261",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/18/how-togolese-people-are-reinventing-political-protest-amid-civil-society-crackdown/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:858338",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/21/what-deep-sea-mining-could-mean-for-jamaicas-fisherfolk/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/globalvoices:858623",
+   "source": "global_voices",
+   "url": "https://globalvoices.org/2026/09/24/bangladesh-protests-can-change-governments-but-can-they-strengthen-democracy/"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2972263",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Ukrainian_President_Zelenskyy_denies_Russian_claim_of_capture_of_Bakhmut"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2976856",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Former_US_President_Donald_Trump_pleads_not_guilty_over_alleged_attempts_to_'subvert'_2020_presidential_election_results"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2977513",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Georgia_grand_jury_indicts_former_US_President_Trump%2C_alleging_'conspiracy_to_unlawfully_change_outcome'_of_2020_presidential_election"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2978031",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Russian_government%3A_Mercenary_leader_Yevgeny_Prigozhin_recorded_on_plane_that_crashed_without_survivors"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2992274",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Industry_leaders_see_energy_supply_as_the_next_hurdle_for_AI"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2996015",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/On_the_campaign_trail_in_the_USA%2C_May_2024"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3000453",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/England%3A_Staffordshire_town_celebrates_LGBTQ%2B_pride_despite_funding_issues"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3008026",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Air_ambulance_crashes_into_infrastructure_in_Philadelphia%2C_Pennsylvania_while_transporting_pediatric_patient%2C_no_survivors"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3013638",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/125th_New_York_International_Auto_Show"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3014957",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Authorities_arrest_Belarusian_Wikipedia_sysop_and_only_bureaucrat_Maksim_Lepushenka"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3016239",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Players_line_up_for_the_launch_of_the_Nintendo_Switch_2_in_New_York_City"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3016267",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Activists_claim_sexual_abuse_and_torture_at_the_hands_of_Tanzanian_authorities"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3022940",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Russian_%22Art_Night%22_in_Crimea%3A_Wikinews_interviews_Traveler_Viktor_Pinchuk"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3067792",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Bruce_Gallanter_interviews_Elliott_Sharp%2C_Joe_Fonda_at_Downtown_Music_Gallery_event"
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3088290",
+   "source": "wikinews",
+   "url": "https://en.wikinews.org/wiki/Wikimedia_Foundation_closes_Wikinews_after_21_years"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/dbs-check-requests-guidance-for-employers",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/dbs-check-requests-guidance-for-employers"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/eu-entryexit-system",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/eu-entryexit-system"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/govuk-one-login-app-accessibility-statement",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/govuk-one-login-app-accessibility-statement"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/help-someone-use-govuk-one-login",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/help-someone-use-govuk-one-login"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/hm-land-registry-registration-services-fees",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/hm-land-registry-registration-services-fees"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/manage-your-trusts-registration-service",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/manage-your-trusts-registration-service"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/searching-the-companies-house-register",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/searching-the-companies-house-register"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/using-the-uk-immigration-id-check-app",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/using-the-uk-immigration-id-check-app"
+  },
+  {
+   "sample_id": "MTD-v1-2026/govuk:/guidance/verifying-your-identity-for-companies-house",
+   "source": "govuk_technical",
+   "url": "https://www.gov.uk/guidance/verifying-your-identity-for-companies-house"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13193839",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13193839"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13199006",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13199006"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13199025",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13199025"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13199040",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13199040"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13201167",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13201167"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13218914",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13218914"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13218985",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13218985"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13236541",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13236541"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13293780",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13293780"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13293909",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13293909"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13322846",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13322846"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13368569",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13368569"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13391427",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13391427"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13395705",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13395705"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13407178",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13407178"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13422507",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13422507"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13423729",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13423729"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13453804",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13453804"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13467822",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13467822"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13472784",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13472784"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13473917",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13473917"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13477910",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13477910"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13477971",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13477971"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13485553",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13485553"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13504170",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13504170"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13506276",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13506276"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13506310",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13506310"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13506494",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13506494"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13521872",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13521872"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13527712",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13527712"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13535528",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13535528"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13538000",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13538000"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13542377",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13542377"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13547921",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13547921"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13557953",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13557953"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13561907",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13561907"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13561951",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13561951"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13561991",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13561991"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13581490",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13581490"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13581869",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13581869"
+  },
+  {
+   "sample_id": "MTD-v1-2026/pmc:PMC13587347",
+   "source": "cc_by_technical",
+   "url": "https://europepmc.org/article/PMC/PMC13587347"
+  }
+ ]
+}

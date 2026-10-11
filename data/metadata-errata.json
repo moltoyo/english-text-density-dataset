@@ -1,0 +1,175 @@
+{
+ "dataset": "MTD-v1-2026",
+ "review_date": "2026-10-05",
+ "scope": "Individual source publication-date and licence corrections found in the 5 October 2026 source metadata review. Metadata only; no source prose. The original frozen study records remain unchanged, and measurements are unaffected.",
+ "summary": "8 of 15 Wikinews samples have recorded publication dates that differ from their source dates. These 8 include 7 items first published before the cutover; those 7 should be CC BY 2.5 under Wikinews:Copyright (https://en.wikinews.org/wiki/Wikinews:Copyright) rather than the recorded CC BY 4.0, and they violate the original rule of selecting items published after 16 December 2024. They are retained in the published v1 with this documented erratum.",
+ "row_count": 8,
+ "rows": [
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2972263",
+   "source_url": "https://en.wikinews.org/wiki/Ukrainian_President_Zelenskyy_denies_Russian_claim_of_capture_of_Bakhmut",
+   "recorded_publication_date": "2025-02-17",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2023-05-23",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=2972263&action=history",
+   "notes": [
+    "page created 2023-05-20T19:51:19Z",
+    "{{date}} template: May 23, 2023",
+    "current revid 4829253",
+    "categories include Published",
+    "maintenance template present: {{Archived-cc-2.5",
+    "effective original date used: 2023-05-23",
+    "DISCREPANCY: recorded publication_date 2025-02-17 vs original 2023-05-23"
+   ]
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2976856",
+   "source_url": "https://en.wikinews.org/wiki/Former_US_President_Donald_Trump_pleads_not_guilty_over_alleged_attempts_to_'subvert'_2020_presidential_election_results",
+   "recorded_publication_date": "2025-02-17",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2023-08-10",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=2976856&action=history",
+   "notes": [
+    "page created 2023-08-01T23:43:17Z",
+    "{{date}} template: August 10, 2023",
+    "current revid 4818330",
+    "categories include Published",
+    "maintenance template present: {{Archived-cc-2.5",
+    "effective original date used: 2023-08-10",
+    "DISCREPANCY: recorded publication_date 2025-02-17 vs original 2023-08-10"
+   ]
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2977513",
+   "source_url": "https://en.wikinews.org/wiki/Georgia_grand_jury_indicts_former_US_President_Trump%2C_alleging_'conspiracy_to_unlawfully_change_outcome'_of_2020_presidential_election",
+   "recorded_publication_date": "2025-02-17",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2023-08-20",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=2977513&action=history",
+   "notes": [
+    "page created 2023-08-15T05:43:05Z",
+    "{{date}} template: August 20, 2023",
+    "current revid 4818818",
+    "categories include Published",
+    "maintenance template present: {{Archived-cc-2.5",
+    "effective original date used: 2023-08-20",
+    "DISCREPANCY: recorded publication_date 2025-02-17 vs original 2023-08-20"
+   ]
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2978031",
+   "source_url": "https://en.wikinews.org/wiki/Russian_government%3A_Mercenary_leader_Yevgeny_Prigozhin_recorded_on_plane_that_crashed_without_survivors",
+   "recorded_publication_date": "2025-02-17",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2023-08-25",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=2978031&action=history",
+   "notes": [
+    "page created 2023-08-24T11:51:58Z",
+    "{{date}} template: August 25, 2023",
+    "current revid 4825463",
+    "categories include Published",
+    "maintenance template present: {{Archived-cc-2.5",
+    "effective original date used: 2023-08-25",
+    "DISCREPANCY: recorded publication_date 2025-02-17 vs original 2023-08-25"
+   ]
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2992274",
+   "source_url": "https://en.wikinews.org/wiki/Industry_leaders_see_energy_supply_as_the_next_hurdle_for_AI",
+   "recorded_publication_date": "2025-02-17",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2024-04-25",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=2992274&action=history",
+   "notes": [
+    "page created 2024-04-18T18:19:59Z",
+    "{{date}} template: April 25, 2024",
+    "current revid 4832375",
+    "categories include Published",
+    "maintenance template present: {{Archived-cc-2.5",
+    "effective original date used: 2024-04-25",
+    "DISCREPANCY: recorded publication_date 2025-02-17 vs original 2024-04-25"
+   ]
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:2996015",
+   "source_url": "https://en.wikinews.org/wiki/On_the_campaign_trail_in_the_USA%2C_May_2024",
+   "recorded_publication_date": "2025-04-02",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2024-06-28",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=2996015&action=history",
+   "notes": [
+    "page created 2024-06-15T19:46:57Z",
+    "{{date}} template: June 28, 2024",
+    "current revid 4853211",
+    "categories include Published",
+    "maintenance template present: {{Archived",
+    "effective original date used: 2024-06-28",
+    "DISCREPANCY: recorded publication_date 2025-04-02 vs original 2024-06-28"
+   ]
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3000453",
+   "source_url": "https://en.wikinews.org/wiki/England%3A_Staffordshire_town_celebrates_LGBTQ%2B_pride_despite_funding_issues",
+   "recorded_publication_date": "2025-02-17",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2024-09-04",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=3000453&action=history",
+   "notes": [
+    "page created 2024-09-02T19:04:20Z",
+    "{{date}} template: September 4, 2024",
+    "current revid 4832386",
+    "categories include Published",
+    "maintenance template present: {{Archived-cc-2.5",
+    "effective original date used: 2024-09-04",
+    "DISCREPANCY: recorded publication_date 2025-02-17 vs original 2024-09-04"
+   ]
+  },
+  {
+   "sample_id": "MTD-v1-2026/wikinews:3008026",
+   "source_url": "https://en.wikinews.org/wiki/Air_ambulance_crashes_into_infrastructure_in_Philadelphia%2C_Pennsylvania_while_transporting_pediatric_patient%2C_no_survivors",
+   "recorded_publication_date": "2025-02-17",
+   "recorded_license": "CC BY 4.0",
+   "corrected": {
+    "publication_date": "2025-02-05"
+   },
+   "evidence_url": "https://en.wikinews.org/w/index.php?curid=3008026&action=history",
+   "notes": [
+    "page created 2025-02-01T23:36:22Z",
+    "{{date}} template: February 5, 2025",
+    "current revid 5008017",
+    "categories include Published",
+    "maintenance template present: {{archived",
+    "effective original date used: 2025-02-05",
+    "DISCREPANCY: recorded publication_date 2025-02-17 vs original 2025-02-05"
+   ]
+  }
+ ]
+}

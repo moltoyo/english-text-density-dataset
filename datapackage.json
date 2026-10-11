@@ -1,0 +1,137 @@
+{
+  "name": "english-text-density-dataset",
+  "title": "Characters per Word in English: 250 Text Samples",
+  "description": "Character counts and text density measurements from 250 English samples of 500 words, across five text types. Includes the error of the six-character estimate, methodology and source links.",
+  "version": "MTD-v1-2026",
+  "homepage": "https://moltoyo.com/research/text-density-study",
+  "keywords": [
+    "characters per word",
+    "average characters per word",
+    "English",
+    "text density",
+    "character count",
+    "word count"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Moltoyo",
+      "role": "author",
+      "path": "https://moltoyo.com"
+    }
+  ],
+  "resources": [
+    {
+      "name": "measurements-csv",
+      "path": "data/measurements.csv",
+      "title": "measurements.csv",
+      "description": "250 sample-level records and 11 columns; primary analysis table.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "public_sample_id",
+            "type": "string",
+            "description": "Stable sample identifier; joins measurements to the source register."
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "description": "Text type: news, general_informational, academic, technical_instructional or classic_fiction."
+          },
+          {
+            "name": "subdiscipline",
+            "type": "string",
+            "description": "Academic subject group; blank for other categories."
+          },
+          {
+            "name": "moltoyo_words",
+            "type": "integer",
+            "description": "Whitespace-separated tokens under the study definition; always 500."
+          },
+          {
+            "name": "characters_with_spaces",
+            "type": "integer",
+            "description": "Unicode code points in the normalized sample, including spaces."
+          },
+          {
+            "name": "characters_without_whitespace",
+            "type": "integer",
+            "description": "Unicode code points excluding whitespace."
+          },
+          {
+            "name": "characters_per_moltoyo_word_with_spaces",
+            "type": "number",
+            "description": "characters_with_spaces / moltoyo_words; includes spaces."
+          },
+          {
+            "name": "absolute_percentage_error_vs_6_rule",
+            "type": "number",
+            "description": "100 * abs(characters_with_spaces - 3000) / characters_with_spaces; percentage units."
+          },
+          {
+            "name": "sample_sha256",
+            "type": "string",
+            "description": "SHA-256 of the normalized sample; does not establish rights."
+          },
+          {
+            "name": "sample_start_locator",
+            "type": "integer",
+            "description": "Zero-based starting token index in the normalized source document."
+          },
+          {
+            "name": "sample_end_locator",
+            "type": "integer",
+            "description": "Zero-based ending token index, inclusive; start + 499."
+          }
+        ],
+        "primaryKey": "public_sample_id"
+      }
+    },
+    {
+      "name": "measurements-json",
+      "path": "data/measurements.json",
+      "title": "measurements.json",
+      "description": "The same 250 measurements in a JSON object under rows.",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "sources-json",
+      "path": "data/sources.json",
+      "title": "sources.json",
+      "description": "Document-level source URLs under sources; no original prose.",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "methodology-json",
+      "path": "data/methodology.json",
+      "title": "methodology.json",
+      "description": "Sampling, definitions, source mix, results and rights scope.",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "metadata-errata-json",
+      "path": "data/metadata-errata.json",
+      "title": "metadata-errata.json",
+      "description": "Eight source-date corrections, including seven licence corrections; measurements unchanged.",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8"
+    }
+  ],
+  "license_scope": "Only original measurements, compilation and documentation owned by Moltoyo. Third-party source works and rights excluded; no prose distributed."
+}

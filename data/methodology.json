@@ -1,0 +1,150 @@
+{
+ "dataset": "MTD-v1-2026",
+ "title": "Moltoyo Text Density Study",
+ "publisher": "Moltoyo",
+ "study_frozen": "2026-09-26",
+ "research_page_introduced": "2026-10-05",
+ "research_page": "https://moltoyo.com/research/text-density-study",
+ "download_scope": "Measurements and metadata only. No source text, sample text, abstracts, images or PDFs are included. Source works retain their own rights; no licence is granted over source content.",
+ "license": {
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "name": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "declaration_date": "2026-10-10",
+  "scope": "Applies only to the original measurements, the dataset compilation and the original documentation produced by Moltoyo in this download set — the only rights Moltoyo holds.",
+  "attribution": "Attribute Moltoyo, name the dataset version MTD-v1-2026, link to https://moltoyo.com/research/text-density-study and to the licence, and indicate if modifications were made.",
+  "exclusions": "This licence does not apply to third-party source works, their original prose or any third-party rights. Original source texts are not distributed."
+ },
+ "corpus": {
+  "samples": 250,
+  "words_per_sample": 500,
+  "total_words": 125000,
+  "categories": {
+   "news": 50,
+   "general_informational": 50,
+   "academic": 50,
+   "technical_instructional": 50,
+   "classic_fiction": 50
+  },
+  "academic_subdisciplines_per_category": 10,
+  "minimum_source_document_words": 750,
+  "smallest_accepted_source_document_words": 757
+ },
+ "final_source_mix": {
+  "news": {
+   "wikinews": 15,
+   "global_voices": 35
+  },
+  "general_informational": {
+   "wikipedia": 32,
+   "govuk": 17,
+   "european_commission": 1
+  },
+  "academic": {
+   "europe_pmc": 50
+  },
+  "technical_instructional": {
+   "europe_pmc_based_cc_by_technical": 41,
+   "govuk_technical": 9
+  },
+  "classic_fiction": {
+   "project_gutenberg": 50,
+   "max_works_per_author": 2
+  }
+ },
+ "documented_source_mix_revisions": [
+  "A second news source was added: 35 Global Voices samples alongside Wikinews.",
+  "SciDev.Net was excluded because its material could not be verified for the protocol.",
+  "NIST material was unavailable at the required cleaned-word threshold.",
+  "The European Commission quota was reduced from 13 to 1; the remainder was reassigned to Wikipedia and GOV.UK.",
+  "The GOV.UK technical quota was reduced from 22 to 9; the remainder was reassigned to 41 CC BY technical publications sourced via Europe PMC."
+ ],
+ "normalization": {
+  "id": "MTD-NORM-1",
+  "steps": [
+   "Remove non-prose material such as references, navigation, figures, tables and abstracts.",
+   "Collapse all whitespace runs to a single space before sampling.",
+   "Preserve Unicode characters as found."
+  ]
+ },
+ "sampling": {
+  "seed": "MOLTOYO-TEXT-DENSITY-V1-2026",
+  "version": "MTD-v1-2026",
+  "unit": "500 contiguous whitespace-separated tokens",
+  "selection": "Within each eligible quota pool, documents were ranked by SHA-256(seed|version|rank|source_document_id); maximum 2 fiction works per author.",
+  "start_formula": [
+   "N = number of eligible cleaned tokens",
+   "S = N - 500",
+   "floor = min(floor(N * 0.05), S)",
+   "U = S - floor",
+   "h = BigInt('0x' + sha256(seed + '|' + version + '|start|' + source_document_id).slice(0, 16))",
+   "start = U <= 0 ? floor : floor + Number(h % BigInt(U + 1))",
+   "end = start + 499 (inclusive)"
+  ],
+  "locators": "sample_start_locator and sample_end_locator are zero-based token indices; the end locator is inclusive."
+ },
+ "definitions": {
+  "word": "Trim the sample, then split on /\\s+/; an empty string has zero words.",
+  "characters_with_spaces": "Unicode code points, counted with Array.from.",
+  "characters_without_whitespace": "Code points excluding whitespace.",
+  "characters_per_word": "characters_with_spaces / 500",
+  "predicted_characters_6_rule": 3000,
+  "absolute_percentage_error": "100 * abs(actual - 3000) / actual",
+  "mape": "Mean of absolute_percentage_error over the rows in scope.",
+  "note": "These are the frozen 2026 study definitions. They are not the same as the counting rules used by Moltoyo's live tools since October 2026."
+ },
+ "results": {
+  "overall": {
+   "n": 250,
+   "mean_chars_per_word": 6.330368,
+   "mape_6_rule": 9.029953
+  },
+  "academic": {
+   "n": 50,
+   "mean_chars_per_word": 6.72784,
+   "mape_6_rule": 10.665863
+  },
+  "classic_fiction": {
+   "n": 50,
+   "mean_chars_per_word": 5.527,
+   "mape_6_rule": 8.915944
+  },
+  "general_informational": {
+   "n": 50,
+   "mean_chars_per_word": 6.3326,
+   "mape_6_rule": 6.749609
+  },
+  "news": {
+   "n": 50,
+   "mean_chars_per_word": 6.30008,
+   "mape_6_rule": 6.407562
+  },
+  "technical_instructional": {
+   "n": 50,
+   "mean_chars_per_word": 6.76432,
+   "mape_6_rule": 12.410788
+  }
+ },
+ "source_metadata_review": {
+  "date": "2026-10-05",
+  "status": "in_progress",
+  "measurements_changed": false,
+  "confirmed": "91 Europe PMC articles confirmed at article level: 89 CC BY 4.0 and 2 CC0.",
+  "errata": [
+   "8 of 15 Wikinews samples have recorded publication dates that differ from their source dates; these 8 include the 7 pre-cutover items.",
+   "Those 7 should be CC BY 2.5 under Wikinews:Copyright (https://en.wikinews.org/wiki/Wikinews:Copyright), not the recorded CC BY 4.0.",
+   "The same 7 violate the original rule of selecting items published after 16 December 2024; they are retained in the published v1 with this documented erratum. Measurements are unchanged."
+  ],
+  "pending": "Other licence, attribution and source-date checks are ongoing. Global Voices partner content and Project Gutenberg jurisdiction questions require clearance before any prose could be distributed.",
+  "rights_validated": false,
+  "note": "No promise is made that the rights status of every source has been validated.",
+  "errata_file": "metadata-errata.json",
+  "original_records_changed": false
+ },
+ "files": {
+  "measurements.csv": "250 rows, measurements only",
+  "measurements.json": "Same 250 rows with numeric JSON types",
+  "sources.json": "250 source links (sample_id, source, url); no licence or authorship claims",
+  "methodology.json": "This file",
+  "metadata-errata.json": "8 per-sample source date/licence corrections from the 5 October 2026 review; metadata only, no prose"
+ }
+}
