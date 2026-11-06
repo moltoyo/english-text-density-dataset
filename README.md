@@ -6,6 +6,8 @@ The corpus average is **6.33 characters per word including spaces**. This is a r
 
 [Original study and methodology](https://moltoyo.com/research/text-density-study) · [Kaggle dataset](https://www.kaggle.com/datasets/stefanoperrelli/characters-per-word-in-english-250-text-samples)
 
+The original five data files remain unchanged. See the [6 November verification and provenance record](PROVENANCE.md) and run `python3 verify_research.py --density data` to reproduce the numerical checks. A separate [title-width companion dataset](title-width/) contains the approved MTW-v1-2026 files; its records and citation are distinct from this density study.
+
 ## Average characters per word by text type
 
 | Text type | Samples | Characters per word, including spaces | Six-character estimate: mean absolute percentage error |

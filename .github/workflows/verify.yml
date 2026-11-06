@@ -1,0 +1,21 @@
+name: Verify published research
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Reproduce both frozen numerical tables without network requests
+        run: python3 verify_research.py --density data --title-width title-width/MTW-v1-2026
