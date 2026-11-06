@@ -7,3 +7,5 @@ The licence applies only to rights held by Moltoyo. It does not apply to third-p
 Credit Moltoyo, identify version MTD-v1-2026, link to the [original study](https://moltoyo.com/research/text-density-study) and the licence, and indicate any modifications. See the [full legal code](https://creativecommons.org/licenses/by/4.0/legalcode) for the licence terms.
 
 Suggested attribution: Moltoyo. (2026). Moltoyo Text Density Study, MTD-v1-2026. https://moltoyo.com/research/text-density-study. CC BY 4.0. [Describe modifications, if any.]
+
+The separate `title-width/MTW-v1-2026/` companion uses its own MTW-v1-2026 citation and the attribution in its README and metadata. Its Moltoyo-owned measurements, compilation and documentation are also CC BY 4.0; GOV.UK title metadata remains under OGL v3.0 and its exclusions. The density citation above must not be used to identify the title-width dataset.

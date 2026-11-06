@@ -1,0 +1,67 @@
+{
+  "study_version": "MTW-v1-2026",
+  "projection_version": "public-v1-2026-10-30",
+  "title": "Same Character Count, Different Text Widths: 852 GOV.UK Guide Titles",
+  "canonical_url": "https://moltoyo.com/research/title-width-study",
+  "measurement_data_completed": "2026-10-20",
+  "metadata_validation_updated": "2026-10-30",
+  "source_frame_date": "2026-10-15",
+  "source_screen_dates_utc": [
+    "2026-10-16",
+    "2026-10-19"
+  ],
+  "frame_records": 859,
+  "excluded_records": 7,
+  "analysed_titles": 852,
+  "length_groups": 74,
+  "groups_with_n_at_least_10": 46,
+  "titles_in_those_groups": 782,
+  "source_kind": "GOV.UK guide-title strings; not asserted identical to full HTML title elements",
+  "selection": "fixed one-publisher frame; no population inference",
+  "exclusions": {
+    "title_or_path_mismatch": 4,
+    "Welsh_titles": 3,
+    "note": "One excluded Welsh title had already been measured; its raw record was retained but is absent from accepted derived data."
+  },
+  "normalization": "Decode HTML entities; collapse whitespace; trim; preserve case, punctuation and Unicode form; exact string deduplication.",
+  "count_definition": "Unicode codepoints; compare only exact equal codepoint counts. UTF-16 and grapheme counts are supplied separately.",
+  "measurement": {
+    "primary": "Canvas TextMetrics.width (advance width, not ink bounds)",
+    "secondary": "unwrapped DOM width",
+    "browser": "Chromium 141.0.7390.37",
+    "font": "DejaVu Sans Book 2.37",
+    "font_sha256": "58568c88a01b80dfc056daca3eeafd434a0380df1a48dda53f0de0d716109bbd",
+    "font_size_css_px": 20,
+    "font_weight": 400,
+    "dpr": 1,
+    "viewport_css_px": [
+      1280,
+      800
+    ],
+    "language": "en",
+    "direction": "ltr",
+    "historical_font_hinting": "not recorded",
+    "raw_width_precision": "whole CSS-pixel values retained without transformation",
+    "font_binary_redistributed": false
+  },
+  "protocol_sha256": "77bc7e72a5153333b2f3af8dd6d07323c75ed6523b38e2477bf84a2adfdd8c3a",
+  "frozen_measurements_json_sha256": "741a26e2edd0c7fa8aaba8248e54d273261a4b3d11cdfaa017e11af46a42de9c",
+  "statistics": "Exact codepoint groups; Type 7 interpolated percentiles; sample SD with n-1 denominator for n>1; descriptive statistics only. primary_stratum means n>=10, not statistical significance.",
+  "provenance_note": "The public projection keeps source URLs, title metadata, original counts and widths, and source-screen dates; private execution paths and internal ledgers are omitted. One source-path correction is explicitly marked; no title or width changed.",
+  "source_licence": "OGL-UK-3.0, subject to stated exclusions",
+  "source_licence_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "source_attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+  "non_endorsement": "No endorsement by GOV.UK or the information providers is implied.",
+  "rights_note": "Source-notice screening is not exhaustive legal clearance; third-party rights and other stated exclusions remain applicable. No page bodies or font files are redistributed.",
+  "limitations": [
+    "One fixed publisher frame; not a random web sample.",
+    "Historical hinting was not recorded; later reproduction checks cover 23 strings only.",
+    "Every retained width is whole pixels; no subpixel accuracy claim.",
+    "No Google rendering, rewrite, truncation, ranking or CTR observations.",
+    "Sparse length groups retained; no population confidence intervals or significance tests."
+  ],
+  "citation": "Moltoyo (2026). Same Character Count, Different Text Widths: 852 GOV.UK Guide Titles. MTW-v1-2026. https://moltoyo.com/research/title-width-study",
+  "compilation_licence": "Creative Commons Attribution 4.0 International (CC BY 4.0), only for rights held by Moltoyo in original measurements, compilation and documentation.",
+  "compilation_licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "compilation_attribution": "Attribute Moltoyo, name dataset version MTW-v1-2026, link to the study and CC BY 4.0 licence, and indicate changes. GOV.UK title strings and other third-party rights remain subject to their own source terms; Moltoyo does not relicense them."
+}
