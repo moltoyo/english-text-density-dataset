@@ -1,0 +1,108 @@
+{
+  "kaggle_ref": "stefanoperrelli/title-widths-852-english-gov-uk-guide-titles",
+  "dataset_version": "MTW-v1-2026",
+  "kaggle_version": 1,
+  "public_download_http": 200,
+  "zip_sha256": "822335c19019cfbdbe3743ea7aa1594292a7e36e11ea0ba496ca67227041d38e",
+  "files": [
+    {
+      "file": "measurements.csv",
+      "bytes": 341548,
+      "sha256": "38f1e2bf1e28bf7eed73609099202a0f93899fce99a976bc5c12d5ec9146e234",
+      "matches_original": true
+    },
+    {
+      "file": "measurements.json",
+      "bytes": 546702,
+      "sha256": "01ae4f28e9fe669950d1de4258edc1e264f42156377f0d710df9d0f2b2a50c6c",
+      "matches_original": true
+    },
+    {
+      "file": "by-length.csv",
+      "bytes": 6444,
+      "sha256": "4ea0a08a54985072d51b8e25cb580649e99e4f6472b557a451465b36b0d3596e",
+      "matches_original": true
+    },
+    {
+      "file": "by-length.json",
+      "bytes": 21552,
+      "sha256": "d46a5e289a60bdf61eb09f035cf1f50963e405c6991f4b3a8830240d25831a62",
+      "matches_original": true
+    },
+    {
+      "file": "metadata.json",
+      "bytes": 4250,
+      "sha256": "b27f71d1424e61e42cea3124be8f62fa3bb56b9865f7e8eb41cb03987144b7e3",
+      "matches_original": true
+    },
+    {
+      "file": "README.md",
+      "bytes": 3791,
+      "sha256": "2f5c7d9d97dd834741c94b345f6e720f6b1fc0ba93e992cd6d539db4e6b0a609",
+      "matches_original": true
+    },
+    {
+      "file": "validation-note.md",
+      "bytes": 2034,
+      "sha256": "c43966e7e650e524d7aa4ef9086664380581256aa4307cb8b42335a963aee4b0",
+      "matches_original": true
+    },
+    {
+      "file": "checksums.sha256",
+      "bytes": 569,
+      "sha256": "dd787d019900bf0fe68c998a04ba0a59ddbe978f7ebb3886f09b9a856ccf16d4",
+      "matches_original": true
+    }
+  ],
+  "all_eight_match": true,
+  "verified_at_utc": "2026-11-07T16:09:31.578768+00:00",
+  "kaggle_url": "https://www.kaggle.com/datasets/stefanoperrelli/title-widths-852-english-gov-uk-guide-titles",
+  "is_private": false,
+  "license_selector": "Other (specified in description)",
+  "github_repository": "moltoyo/english-text-density-dataset",
+  "github_reference": "db62fb57889285eee0a1c60abfea0c5aa9e409b1",
+  "github_version_path": "title-width/MTW-v1-2026",
+  "canonical_downloads": {
+    "README.md": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "2f5c7d9d97dd834741c94b345f6e720f6b1fc0ba93e992cd6d539db4e6b0a609"
+    },
+    "by-length.csv": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "4ea0a08a54985072d51b8e25cb580649e99e4f6472b557a451465b36b0d3596e"
+    },
+    "by-length.json": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "d46a5e289a60bdf61eb09f035cf1f50963e405c6991f4b3a8830240d25831a62"
+    },
+    "checksums.sha256": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "dd787d019900bf0fe68c998a04ba0a59ddbe978f7ebb3886f09b9a856ccf16d4"
+    },
+    "measurements.csv": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "38f1e2bf1e28bf7eed73609099202a0f93899fce99a976bc5c12d5ec9146e234"
+    },
+    "measurements.json": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "01ae4f28e9fe669950d1de4258edc1e264f42156377f0d710df9d0f2b2a50c6c"
+    },
+    "metadata.json": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "b27f71d1424e61e42cea3124be8f62fa3bb56b9865f7e8eb41cb03987144b7e3"
+    },
+    "validation-note.md": {
+      "http_status": 200,
+      "matches_kaggle_and_github": true,
+      "sha256": "c43966e7e650e524d7aa4ef9086664380581256aa4307cb8b42335a963aee4b0"
+    }
+  },
+  "all_eight_match_website_github_kaggle": true
+}
