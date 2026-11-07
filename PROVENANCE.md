@@ -35,6 +35,12 @@ The numerical check reproduces 852 distinct title records and all 74 exact-codep
 
 The files preserve whole-pixel widths. Historical font hinting was not recorded; the later validation covered 23 strings and does not establish the historical configuration for all 852. No browser measurement was rerun in this verification. No source-page bodies or font binaries are included.
 
+### Kaggle mirror verified — 7 November 2026
+
+The [title-width Kaggle mirror](https://www.kaggle.com/datasets/stefanoperrelli/title-widths-852-english-gov-uk-guide-titles) is public as Kaggle version 1. Its unauthenticated download returned HTTP 200. All eight ZIP members match this repository's approved companion files byte for byte, including `checksums.sha256`; the seven listed checksums agree. See [download evidence](title-width/kaggle-verification-2026-11-07.json).
+
+Only the mirror and this verification record were added. Dataset version MTW-v1-2026, original measurement/public-projection dates and all frozen files remain unchanged. Kaggle's single licence selector reads “Other (specified in description)”; the data card and unchanged files distinguish Moltoyo-owned CC BY 4.0 work from GOV.UK material under OGL v3.0 and its exclusions.
+
 ## Reproduce the file and arithmetic checks
 
 From this repository with Python 3.10 or newer:
